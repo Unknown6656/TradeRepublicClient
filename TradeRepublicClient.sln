@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F1B391E0-EFD2-46DA-8D15-7985EE4D3128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeRepublic", "API\TradeRepublic.csproj", "{7D195EFE-FFAF-4953-83FB-B5658DC21E63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{45100DE0-8D95-49A0-8AEC-B61B8332D6D7}"
+	ProjectSection(SolutionItems) = preProject
+		msedgedriver.exe = msedgedriver.exe
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B391E0-EFD2-46DA-8D15-7985EE4D3128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B391E0-EFD2-46DA-8D15-7985EE4D3128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B391E0-EFD2-46DA-8D15-7985EE4D3128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B391E0-EFD2-46DA-8D15-7985EE4D3128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D195EFE-FFAF-4953-83FB-B5658DC21E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D195EFE-FFAF-4953-83FB-B5658DC21E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D195EFE-FFAF-4953-83FB-B5658DC21E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D195EFE-FFAF-4953-83FB-B5658DC21E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CFC40A5-ED5A-4C62-B437-EA4AEDAF0B28}
+	EndGlobalSection
+EndGlobal
